@@ -1,6 +1,6 @@
 ---
-title: Example Page 1
-linktitle: Tips 1-2
+title: Introduction
+linktitle: Introduction
 date: 
 output: 
  html_document:
@@ -11,7 +11,7 @@ output:
 draft: false
 menu:
   example:
-    parent: Example Topic
+    parent: Topics 
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
