@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Intergenerational Income Mobilty
 - Applied Econometrics
-- Machine Learning 
+- Machine Learning for Economics and Finance
 - Financial Modeling
 - Networks
 
