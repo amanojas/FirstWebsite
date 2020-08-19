@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-- Download the syllabus here [Syllabus](files/ECO1110_Fall2020.docx)
+- Download the syllabus [here](files/ECO1110_Syllabus.pdf)
 
 <!--The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
