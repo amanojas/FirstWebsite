@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Intergenerational Income Mobilty
+- Intergenerational Income Mobilty and Public Policy
 - Applied Econometrics
 - Machine Learning for Economics and Finance
 - Financial Modeling
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Department of Economics at the Graduate Center, CUNY.
+Welcome to my website! I am a PhD student in the Department of Economics at the Graduate Center, CUNY.  
