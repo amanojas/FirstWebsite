@@ -17,10 +17,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-```{r include = FALSE}
-install.packages("learnr")
-library(learnr)
-```
+
 This chapter includes basic introduction of economics.
 
 # Tip 1
