@@ -80,4 +80,4 @@ user_groups:
 
 Welcome to my website! I am a PhD student in the Department of Economics at the Graduate Center, CUNY. My research interests are at the interesection of income inequality, intergenerational income mobility and their public policy implications. I am also interested in financial modeling using advanced statistical and machine learning techniques. 
 
-In my spare time I like to read non-fictions, watch cricket and soccer games.
+In my spare time, I like to read non-fiction, watch cricket and soccer games.
