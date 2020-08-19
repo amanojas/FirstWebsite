@@ -25,14 +25,8 @@ This chapter includes basic introduction of economics.
 
 # Tip 1
 
-```{r letter-a, echo=FALSE}
-question("What number is the letter A in the English alphabet?",
-  answer("8"),
-  answer("14"),
-  answer("1", correct = TRUE),
-  answer("23")
-)
-```
+
 
 # Tip 2
 
+Try doing [sample questions]()
