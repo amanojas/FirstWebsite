@@ -20,10 +20,3 @@ weight: 1
 
 This chapter includes basic introduction of economics.
 
-# Tip 1
-
-
-
-# Tip 2
-
-Try doing [sample questions]()
