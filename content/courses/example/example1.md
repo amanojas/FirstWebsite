@@ -68,7 +68,7 @@ If one individual or group gets something at no cost, somebody else ends up payi
 
 This gets more interesting when we are faced with a trade-off of efficiency and equality. Efficiency is defined as the property of society getting most it can from its scarce resources, whereas equality can be defined as the property of distributing economic prosperity uniformly among the members of the society. This is also a moral dilemma for us as a society. Imagine an economic pie, one example of an efficient outcome for a society would be that Mr. Bezos has the whole pie and we are left with nothing. But one would hardly ever think that is a great way to distribute the economic pie. (Nothing against Mr.Bezos, I do get my deliveries on time). On the other hand, if a governmental policy aimed at redistributing gains of the pie stops it from growing in the first place,, then we would never have a bigger pie. Our aim should be to have a pie as big as we could get while making sure that everyone is getting their fair share (That means ensuring the incentive structure in the economy). The efficiency-equality trade-off has been discussed for a long time in the field. Economists do disagree on that.
 
-Here is the clip from a popular sitcom "Seinfeld" which helps explain this concept. [TINSTAAFL](https://www.youtube.com/watch?v=ie1XGTYueHw)
+[Here](https://www.youtube.com/watch?v=ie1XGTYueHw) is a clip from a popular sitcom "Seinfeld" which helps explain this concept. 
 
 A clip from "The Big Bang theory" [Trade-offs and Comic Books](http://www.bazinganomics.com/bazinganomics//tradeoffs-and-comic-books)
 
@@ -76,11 +76,11 @@ A clip from "The Big Bang theory" [Trade-offs and Comic Books](http://www.bazing
 
 Back to Elaine. Now that we know Elaine must face a trade-off in every decision she makes, the question arises why would she choose one option over another? let us imagine her decision to attend a college. The benefits of going to college will include intellectual enrichment and a chance to get a better job after she finishes her degree. The cost of going to college is her spending on tuition, books and stationery among other things. But that is not the full cost. Since she is attending the college, she is giving up her leisure time. She could have stayed at home partying instead of attending the classes (not a good idea though). In fact, as she is a student at Baruch, we can assume she is smart and a higher ability student who is attending classes instead of earning wages in the market. So, these are the costs of attending the college in addition to tengible costs that we mentioned above. College athletes who can actually earn millions if they drop out of school and play professional sports are well aware that their opportunity cost of going to college is too high. So, the **Opportunity Cost** of an item is what you give up to get that item. In other words, it is the cost of the best possible alternative to the choice you make.
 
-Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where they are getting late for the movie and the cost of not watching movie is higher than waiting in line. So, they try slipping some money to get ahead in line. [Opportunity Cost](https://www.yadayadayadaecon.com/clip/10/)
+[Here](https://www.yadayadayadaecon.com/clip/10/) is a clip from popular sitcom "Seinfeld" which helps explain this concept, where they are getting late for the movie and the cost of not watching movie is higher than waiting in line. So, they try slipping some money to get ahead in line.
 
 ### Rational People Think at the Margin
 
-Economists like to think about rational individual. It is fundamental to the models that have been developed in the field. Often they are criticised for it, but the assumption of a rational individual is not unreasonable as far as buidling models are concerned. A rational person would systematically and purposefully make decisions that are in their best interests. In our case, what we is assumed that Elaine is attending classes instead of partying or working in the market because she has carefully weighed pros and cons of her decision to go to college. Now, there is another branch of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) which states that people do not function like that. If you are interested in diving into this literature, here is the classic work on behavioral economics. [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman.
+Economists like to think about rational individual. It is fundamental to the models that have been developed in the field. Often they are criticised for it, but the assumption of a rational individual is not unreasonable as far as buidling models are concerned. A rational person would systematically and purposefully make decisions that are in their best interests. In our case, what we is assumed that Elaine is attending classes instead of partying or working in the market because she has carefully weighed pros and cons of her decision to go to college. Now, there is another branch of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) which states that people do not function like that. If you are interested in diving into this literature, [here](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) is the classic work on behavioral economics  by Daniel Kahneman.
 
 For now, we are going to stay with the assumption of a rational individual. A rational individual knows that decisions in life are not black and white but usually involve shades of gray. Elaine in our case, while juggling between studying economics or sociology, is not facing the decision which subject to study and which to leave. Instead she is deciding whether to spend one more hour to study economics or spend that hour studying sociology. Now, of course that depends on how much economics she has already studied. Economists use the term **marginal change** to describe this incremental change. Margin means "edge", so keep in mind when we talk about thinking at the margin (as the title suggests), we are talking about adjustments around the edges of **what we are already doing**. A rational individual often makes a decision by comparing **marginal benefits** and **marginal costs**.
 
@@ -88,7 +88,7 @@ Elaine will weigh marginal benefit of studying one more hour of economics agains
 
 Another example would be of a rational firm. A firm hires a worker if the marginal benefit of hiring an additional worker is greater than the marginal cost of hiring her.
 
-Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Elaine has eaten 23 bad sub sandwiches and she is determined to get the 24th to get a **Free** one. Although this conflicts with the idea of [*The Sunk Cost Fallacy*](https://en.wikipedia.org/wiki/Sunk_cost), it describes our idea very well. [Thinking at the margin](https://www.yadayadayadaecon.com/clip/88/) 
+[Here](https://www.yadayadayadaecon.com/clip/88/) is a clip from popular sitcom "Seinfeld" which helps explain this concept, where Elaine has eaten 23 bad sub sandwiches and she is determined to get the 24th to get a **free** one. Although this conflicts with the idea of [*The Sunk Cost Fallacy*](https://en.wikipedia.org/wiki/Sunk_cost), it describes our idea very well.  
 
 ### People Respond to Incentives
 
@@ -99,18 +99,72 @@ During this pandemic, many people are forced to work from home. Now that the pan
 Government often uses this idea to nudge people to behave in a way government wants them to behave. For instance, the US government taxes the cigarette consumption to disincentivize people to smoke. The seat belt laws are also one of the examples of exploiting people's tendency to respond to incentives. Increasing the gasoline prices incentivizes people to switch to renewable energy sources in the long run.
 
 
-Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Jerry wants Newman out of his life and therefore he helps him deliver the mails so that Newman gets the promotion and move to Hawaii. [Incentives](https://www.yadayadayadaecon.com/clip/81/)
+[Here](https://www.yadayadayadaecon.com/clip/81/) is a clip from popular sitcom "Seinfeld" which helps explain this concept, where Jerry wants Newman out of his life and therefore he helps him deliver the mails so that Newman can get the promotion and move to Hawaii. 
 
 ### Trade Can Make Everyone Better Off
 
+Isn't it a perfect time to dive into some of the basics of trade? The concept of trade is as old as the human civilization. The person who had fire was met by someone who had hunted an animal. They both decide to share their own stuff with each other and both went to home happy having a good dinner. "China is ripping us off". You may have heard this on the news numerous times. There is some truth to that, but contrary to public belief, trade between two countries can be make each of them better off. Trade allows countries to specialize in what they do best and that in turn lead them to enjoy a greater variety of goods and services. 
+
+Trade theory has attracted a lot of interest from economists these days due to negative effects of globalization. But we will look into it in more detail in the chapter on trade.
 
 
 ### Markets Are Usually a Good Way to Organize Economic Activity
 
+Who has not heard about the idea of invisible hand? The term "invisible hand" was coined by Adam Smith known by many the father of economics. Although he only uses it three times in his writings, the concept is powerful and foundational to the economics. 
+
+*“It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own self-interest. We address ourselves not to their humanity but to their self-love, and never talk to them of our own necessities, but of their advantages”* - Adam Smith, [An Inquiry into the Nature & Causes of the Wealth of Nations, Vol 1](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128)
+
+The collapse of communism in the Soviet Union and Eastern Europe was one of the watershed moments of the late 20th century. Communist countries worked on a premise that a central planner (a government or a group government officers) was in the best position to allocate the economy's scarce resources. The idea behind central planning was that only government could organize economic activity that is in th best interets of citizens. Evidently, it did not work out and the countries got poorer instead of richer. Today, all the developed world as well as developing countries have abandoned the system in favor of a market system (more or less with a welfare state). Unlike communist system, in a market system the scarce resources are allocated by everyday decisions made by millions of people who engage in voluntary exchanges. 
+
+At first glance, the success of market economies is puzzling. Think about it, no one is looking out for the economic well being of the society as a whole(hence an invisible hand). Free markets contain numerous buyers and sellers all getting together pursuing nothing but their own self-interests. Despite this decentralization,market economies have worked reasonably well in generating wealth for everyone.
+
+One of the most important aspect of the market economy is that it does provide an incentive structure for people to follow so that they have an incentive to climb up the ladder in the society.
+
+[Here](https://www.yadayadayadaecon.com/clip/55/) is a clip from "Seinfeld" which is somewhat related to the concept but also emphasizes the fact that markets are not necessarily a zero sum game.
+
 ### Governments Can Sometimes Improve Market Outcomes
+
+#### If markets work reasonably well, why do we need a government?
+
+The answer is property rights. For a so called "invisible hand"  to work it is extremely important to have strong property rights. Historical evidence suggests that if citizens' property rights are well protected by the government, the system of free markets work perfectly well. Why is that a case? As we saw before, the prices are vital for a market system to work. If the property rights are well defined and well protected, property owners can put a price on it which can then incentivize others to act accordingly.
+
+For instance, a trespasser can be disincentivized to encroach in your property if your property rights are well protected by law.
+
+#### What happens if property rights can not be defined?
+
+Another circumstance where one can advocate for the governmental intervention in the economy. For example, nobody owns air. If a chemical company is polluting air, the people residing in that area can not penalize the company as they do not hold the property rights of the air. In that case, the government can come in with some penalty to the polluters to disincentivize them from polluting the air just to increase profits. This is what we call "Negative Externality", where the actions of one agent causes harm to another without incurring a cost. It is one form of a market failure. 
+
+Another form of a market failure is the market power. Monopolies hold too much market power. One can say big techs act almost like as if they are a monopoly. OPEC cartel is considered as an oligopoly.
+
+#### Redistribution to maintain reasonable equality
+
+Another reason for a government to intervene might be to increase equality in the economy. Redistributing gains in the economy to benefit everyone is something the government can do. Although these things are always up for the debate as there are unintended consequences attached to public policies (Recall our discussion on efficiency- equality trade-off)
 
 ### A Country's Standard of Living Depends on Its Ability to Produce Goods and Services
 
+In 2017, data from IMF suggest that per capital income (in PPP terms) in the US was around $58000, in India it was around $6500, whereas in Zimbabwe it was around $2300.
+
+**Why is there a significant difference among these countries when it comes to per capital income?**
+
+There are numerous reasons for these differences in incomes among countries. Historically the biggest driver of income growth anywhere in the world has been productivity. The income growth in the US during 80s and 90s has been largely attributed to productivity gains. Similarly, recent low growth can be attributed to lower productivity.
+
+The US has overall higher standards of living due to the technological innovation and labor productivity. Of course there are other factors but productivity has been a key driver behind that. Technological innovation has increased productivity for some people, but many have been left behind and that actually begs a public policy question. If rising productivity can increase wages and in turn reduce income inequality, it makes sense to have a better educated, in fact better trained workforce in the economy. Economists do tend to have different opinions. Some might suggest to have universal education, while others suggest targeted skill development program to close the productivity gap that is left open by technological innovation.
+
 ### Prices Rise When the Government Prints Too Much Money
 
+<center>
+"*Inflation is always and everywhere a monetary phenomenon*" - Milton Friedman
+<\center>
+
+Inflation is defined as increase in prices of goods and services. Inflation leads to loss of purchasing power of the currency. Explaining the vices of inflation without invoking the history of hyperinflation in German State during 1920s is incomplete. It was said that if one were waiting in a line to buy a bread, the price of the bread would double or in some cases quadruple by the time one got her turn. We will talk about it later in the course. Recent examples include hyperinflation in Zimbabwe and Venezuela. 
+
+[Here](https://www.youtube.com/watch?v=GJ4TTNeSUdQ) is a legendary economist Milton Friedman explaining inflation.
+
 ### Society Faces a Short-Run Trade-off between Inflation and Unemployment
+
+Although in the long run, the inflation is mostly attributed to the money printing by the government, the short run effects are much more complex and controversial. 
+
+Mostly, increasing the amount of money in the economy will put more money in people's pockets and hence people are expected to spend more leading to higher demand for goods and services. The higher demand may overtime incentivize the firm's to increase their prices and also encourages them to hire more workers to produce more goods and that can lower the unemployment.
+
+In short run, policy makers can use this trade-off to influence overall demand in the economy. Since it is a powerful tool, the debate around it is still going on.
+
