@@ -50,14 +50,17 @@ Following are the ten principles of economics described in [Mankiw's introductor
 
 ### People Face Trade-offs
 
-There is a popular adage (somewhat cliched yet powerful)  **"There ain't no such thing as a free lunch"** communicating the idea that it is impossible to get something for nothing. In economics, this idea refers to a very important concept of **opportunity cost**(which we will look at in the following section). making choices requires trading off one goal against another.
+There is a popular adage (somewhat cliched yet powerful)  **"There ain't no such thing as a free lunch"** communicating the idea that it is impossible to get something for nothing. In economics, this idea refers to a very important concept of **opportunity cost** (which we will look at in the following section). making choices requires trading off one goal against another.
 
 A very simple example could be of a student like you named Elaine, who has to juggle her time between two subjects let us say economics (Of course) and sociology. The amount of time she spends studying for economics, she has to give up that time to study sociology. This basic principle is extremely important to keep in mind while analyzing policy issues. 
+
 
 
 <center>
 *“There are no solutions, there are only trade-offs; and you try to get the best trade-off you can get, that’s all you can hope for"* - Thomas Sowell. 
 </center>
+
+
 
 
 Here is the clip from famous sitcom "Seinfeld" which helps explain this concept. [TINSTAAFL](https://www.youtube.com/watch?v=ie1XGTYueHw)
@@ -69,7 +72,7 @@ This gets more interesting when we are faced with a trade-off of efficiency and 
 
 ### Opportunity Cost
 
-Back to Elaine. Now that we know Elaine must face a trade-off in every decision she makes, the question arises why would she choose one option over another? let us imagine her decision to attend a college. The benefits of going to college will include intellectual enrichment and a chance to get a better job after she finishes her degree.
+Back to Elaine. Now that we know Elaine must face a trade-off in every decision she makes, the question arises why would she choose one option over another? let us imagine her decision to attend a college. The benefits of going to college will include intellectual enrichment and a chance to get a better job after she finishes her degree. The cost of going to college is her spending on tuition, books and stationery among other things. But that is not the full cost. Since she is attending the college, she is giving up her leisure time. She could have stayed at home partying instead of attending the classes (not a good idea though). In fact, as she is a student at Baruch, we can assume she is smart and a higher ability student who is attending classes instead of earning wages in the market. So, these are the costs of attending the college in addition to tengible costs that we mentioned above. College athletes who can actually earn millions if they drop out of school and play professional sports are well aware that their opportunity cost of going to college is too high. So, the **Opportunity Cost** of an item is what you give up to get that item. In other words, it is the cost of the best possible alternative to the choice you make.
 
 ### Rational People Think at the Margin
 
