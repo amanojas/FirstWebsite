@@ -44,5 +44,29 @@ It is about weighing different choices or alternatives. Some of those important 
 
 ## Ten Principles of Economics
 
+Now that we have established what economics is, we can move to define what an economy is. In simple words, economy is a group of people intereacting with one another as they go about their lives. Overall behavior of an economy reflects the behavior of the individuals participating in it. The way economists usually look at the economy is by defining what they call agents. For instance, a simple model of an economy will include households and firms as agents. They interact with each other and create an economy. More on this will be covered later.
+
+Following are the ten principles of economics described in [Mankiw's introductory text](https://www.amazon.com/Principles-Macroeconomics-N-Gregory-Mankiw/dp/1305971507) (Recommended Text in our course)
+
+### People Face Trade-offs
 
 
+
+
+### Opportunity Cost
+
+### Rational People Think at the Margin
+
+### People Respond to Incentives
+
+### Trade Can Make Everyone Better Off
+
+### Markets Are Usually a Good Way to Organize Economic Activity
+
+### Governments Can Sometimes Improve Market Outcomes
+
+### A Country's Standard of Living Depends on Its Ability to Produce Goods and Services
+
+### Prices Rise When the Government Prints Too Much Money
+
+### Society Faces a Short-Run Trade-off between Inflation and Unemployment
