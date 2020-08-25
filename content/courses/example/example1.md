@@ -28,7 +28,7 @@ People hear the word "economics" and they immediately think about money. If I ha
 
 <center>
 
-"*“Economics is the science which studies human behavior as a relationship between given ends and scarce means which have alternative uses.*"
+*“Economics is the science which studies human behavior as a relationship between given ends and scarce means which have alternative uses.*"
 
 </center>
 
@@ -50,7 +50,20 @@ Following are the ten principles of economics described in [Mankiw's introductor
 
 ### People Face Trade-offs
 
+There is a popular adage (somewhat cliched yet powerful)  **"There ain't no such thing as a free lunch"** communicating the idea that it is impossible to get something for nothing. In economics, this idea refers to a very important concept of **opportunity cost**(which we will look at in the following section). making choices requires trading off one goal against another.
 
+A very simple example could be of a student like you, who has to juggle her time between two subjects let us say economics (Of course) and sociology. The amount of time she spends studying for economics, she has to give up that time to study sociology. This basic principle is extremely important to keep in mind while analyzing policy issues. 
+
+<center>
+
+*“There are no solutions, there are only trade-offs; and you try to get the best trade-off you can get, that’s all you can hope for"* - Thomas Sowell. 
+
+</center>
+
+Here is the clip from famous sitcom "Seinfeld" which helps explain this concept. [TINSTAAFL](https://www.youtube.com/watch?v=ie1XGTYueHw)
+
+
+If one individual or group gets something at no cost, somebody else ends up paying for it. If there appears to be no direct cost to any single individual, there is a social cost. Similarly, someone can benefit for "free" from an externality or from a public good, but someone has to pay the cost of producing these benefits. Have look at two classic examples of this : [Free rider problem](https://en.wikipedia.org/wiki/Free-rider_problem)  and [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 
 
 ### Opportunity Cost
