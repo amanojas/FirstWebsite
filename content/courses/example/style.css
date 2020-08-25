@@ -2,32 +2,32 @@
   color: #708090;
   font-family: Baskerville;
   font-size: 16px; 
-  border-color: #708090;
+  border-color:  #000000;
 }
 #h1.title {
   color: #F08080;
-  background-color: #F5F5F5;
-  opacity: 0.6;
+  background-color:  #F0FFFF;
   font-family: Baskerville;
-  font-size: 20px;
+  font-size: 30px;
 }
 #h4.author {
-  color: #708090;
+  color:  #000000;
   font-family: Baskerville;
-  background-color: #F5F5F5;
+  background-color:  #F0FFFF;
 }
 #h4.date {
-  color: #708090;
+  color:  #000000;
   font-family: Baskerville;
-  background-color: #F5F5F5;
+  background-color:  #F0FFFF;
 }
 
 body {
-  color: #708090;
+  color:  #000000;
   font-family: Baskerville;
-  background-color: #F5F5F5;
+  background-color:  #F0FFFF;
+  font-size: 25px;
 }
 pre {
-  color: #708090;
+  color:  #000000;
   background-color: #F8F8FF;
 }
