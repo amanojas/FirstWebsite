@@ -52,21 +52,24 @@ Following are the ten principles of economics described in [Mankiw's introductor
 
 There is a popular adage (somewhat cliched yet powerful)  **"There ain't no such thing as a free lunch"** communicating the idea that it is impossible to get something for nothing. In economics, this idea refers to a very important concept of **opportunity cost**(which we will look at in the following section). making choices requires trading off one goal against another.
 
-A very simple example could be of a student like you, who has to juggle her time between two subjects let us say economics (Of course) and sociology. The amount of time she spends studying for economics, she has to give up that time to study sociology. This basic principle is extremely important to keep in mind while analyzing policy issues. 
+A very simple example could be of a student like you named Elaine, who has to juggle her time between two subjects let us say economics (Of course) and sociology. The amount of time she spends studying for economics, she has to give up that time to study sociology. This basic principle is extremely important to keep in mind while analyzing policy issues. 
+
 
 <center>
-
 *“There are no solutions, there are only trade-offs; and you try to get the best trade-off you can get, that’s all you can hope for"* - Thomas Sowell. 
-
 </center>
+
 
 Here is the clip from famous sitcom "Seinfeld" which helps explain this concept. [TINSTAAFL](https://www.youtube.com/watch?v=ie1XGTYueHw)
 
 
 If one individual or group gets something at no cost, somebody else ends up paying for it. If there appears to be no direct cost to any single individual, there is a social cost. Similarly, someone can benefit for "free" from an externality or from a public good, but someone has to pay the cost of producing these benefits. Have look at two classic examples of this : [Free rider problem](https://en.wikipedia.org/wiki/Free-rider_problem)  and [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 
+This gets more interesting when we are faced with a trade-off of efficiency and equality. Efficiency is defined as the property of society getting most it can from its scarce resources, whereas equality can be defined as the property of distributing economic prosperity uniformly among the members of the society. This is also a moral dilemma for us as a society. Imagine an economic pie, one example of an efficient outcome for a society would be that Mr. Bezos has the whole pie and we are left with nothing. But one would hardly ever think that is a great way to distribute the economic pie. (Nothing against Mr.Bezos, I do get my deliveries on time). On the other hand, if a governmental policy aimed at redistributing gains of the pie stops it from growing in the first place,, then we would never have a bigger pie. Our aim should be to have a pie as big as we could get while making sure that everyone is getting their fair share (That means ensuring the incentive structure in the economy). The efficiency-equality trade-off has been discussed for a long time in the field. Economists do disagree on that.
 
 ### Opportunity Cost
+
+Back to Elaine. Now that we know Elaine must face a trade-off in every decision she makes, the question arises why would she choose one option over another? let us imagine her decision to attend a college. The benefits of going to college will include intellectual enrichment and a chance to get a better job after she finishes her degree.
 
 ### Rational People Think at the Margin
 
