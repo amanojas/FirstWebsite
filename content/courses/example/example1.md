@@ -88,7 +88,7 @@ Elaine will weigh marginal benefit of studying one more hour of economics agains
 
 Another example would be of a rational firm. A firm hires a worker if the marginal benefit of hiring an additional worker is greater than the marginal cost of hiring her.
 
-Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Elaine has eaten 23 bad sub sandwiches and she is determined to get the 24th to get a **Free** one. Although this conflicts with the idea of [*The Sunk Cost Fallacy*](https://en.wikipedia.org/wiki/Sunk_cost), it describes our idea very well [Thinking at the margin](https://www.yadayadayadaecon.com/clip/88/) 
+Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Elaine has eaten 23 bad sub sandwiches and she is determined to get the 24th to get a **Free** one. Although this conflicts with the idea of [*The Sunk Cost Fallacy*](https://en.wikipedia.org/wiki/Sunk_cost), it describes our idea very well. [Thinking at the margin](https://www.yadayadayadaecon.com/clip/88/) 
 
 ### People Respond to Incentives
 
@@ -96,9 +96,14 @@ One of the most inportant ideas in economics in my opinion is that everybody res
 
 During this pandemic, many people are forced to work from home. Now that the pandemic has incentivized people to work from home, the demand for office tables, monitor screens and other office supplies has increased. That in turn incentivized suppliers to raise the prices of those things. As we will see, the incentives get reflected in prices of things which are extremely crucial to understanding the behavior of consumers and suppliers, which in turn helps market economy allocate the scarce resources. 
 
-Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Jerry wants Newman out of his life and therefore he helps him deliver the mails so that Newman gets the promotion and move to Hawaii.[Incentives](https://www.yadayadayadaecon.com/clip/81/)
+Government often uses this idea to nudge people to behave in a way government wants them to behave. For instance, the US government taxes the cigarette consumption to disincentivize people to smoke. The seat belt laws are also one of the examples of exploiting people's tendency to respond to incentives. Increasing the gasoline prices incentivizes people to switch to renewable energy sources in the long run.
+
+
+Here is the clip from popular sitcom "Seinfeld" which helps explain this concept, where Jerry wants Newman out of his life and therefore he helps him deliver the mails so that Newman gets the promotion and move to Hawaii. [Incentives](https://www.yadayadayadaecon.com/clip/81/)
 
 ### Trade Can Make Everyone Better Off
+
+
 
 ### Markets Are Usually a Good Way to Organize Economic Activity
 
