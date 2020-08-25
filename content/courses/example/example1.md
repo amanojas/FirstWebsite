@@ -23,7 +23,7 @@ lesson of economics."* - [Thomas Sowell](https://en.wikipedia.org/wiki/Thomas_So
 
 ## What is Economics?
 
-People hear the word "economics"and they immediately think about money. If I had a nickel everytime someone asks me about the stock market when I tell them I study economics, I would be a millionaire. I reckon most of the economists would feel the same way. Of course that is not their fault. Who doesn't want to get rich quick? Economics is not just about money. Economics is about making choices. an all encompassing definition of the field of economics is still used today given by [Lionel Robbins](https://en.wikipedia.org/wiki/Lionel_Robbins).
+People hear the word "economics" and they immediately think about money. If I had a nickel every time someone asks me about the stock market when I tell them I study economics, I would be a millionaire. I reckon most of the economists would feel the same way. Of course, that is not their fault. Who doesn't want to get rich quick? Economics is not just about money. Economics is about making choices. an all-encompassing definition of the field of economics is still used today given by [Lionel Robbins](https://en.wikipedia.org/wiki/Lionel_Robbins).
 
 
 <center>
@@ -44,7 +44,7 @@ It is about weighing different choices or alternatives. Some of those important 
 
 ## Ten Principles of Economics
 
-Now that we have established what economics is, we can move to define what an economy is. In simple words, economy is a group of people intereacting with one another as they go about their lives. Overall behavior of an economy reflects the behavior of the individuals participating in it. The way economists usually look at the economy is by defining what they call agents. For instance, a simple model of an economy will include households and firms as agents. They interact with each other and create an economy. More on this will be covered later.
+Now that we have established what economics is, we can move to define what an economy is. In simple words, an economy is a group of people interacting with one another as they go about their lives. The overall behavior of an economy reflects the behavior of the individuals participating in it. The way economists usually look at the economy is by defining what they call agents. For instance, a simple model of an economy will include households and firms as agents. They interact with each other and create an economy. More on this will be covered later.
 
 Following are the ten principles of economics described in [Mankiw's introductory text](https://www.amazon.com/Principles-Macroeconomics-N-Gregory-Mankiw/dp/1305971507) (Recommended Text in our course)
 
