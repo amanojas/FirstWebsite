@@ -153,7 +153,7 @@ The US has overall higher standards of living due to the technological innovatio
 ### Prices Rise When the Government Prints Too Much Money
 
 <center>
-*"Inflation is always and everywhere a monetary phenomenon"* - Milton Friedman
+*"Inflation is always and everywhere a monetary phenomenon"* - Milton Friedman.
 </center>
 
 
