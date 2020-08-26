@@ -171,3 +171,4 @@ Mostly, increasing the amount of money in the economy will put more money in peo
 
 In short run, policy makers can use this trade-off to influence overall demand in the economy. Since it is a powerful tool, the debate around it is still going on.
 
+
