@@ -103,7 +103,7 @@ Government often uses this idea to nudge people to behave in a way government wa
 
 ### Trade Can Make Everyone Better Off
 
-Isn't it a perfect time to dive into some of the basics of trade? The concept of trade is as old as the human civilization. The person who had fire was met by someone who had hunted an animal. They both decide to share their own stuff with each other and both went to home happy having a good dinner. "China is ripping us off". You may have heard this on the news numerous times. There is some truth to that, but contrary to public belief, trade between two countries can be make each of them better off. Trade allows countries to specialize in what they do best and that in turn lead them to enjoy a greater variety of goods and services. 
+Isn't it a perfect time to dive into some of the basics of trade? The concept of trade is as old as the human civilization. The person who had fire was met by someone who had hunted an animal. They both decide to share their own stuff with each other and both went to home happy having a good dinner. "China is ripping us off!" You may have heard this on the news numerous times. There is some truth to that, but contrary to public belief, trade between two countries can make each of them better off. Trade allows countries to specialize in what they do best and that in turn lead them to enjoy a greater variety of goods and services. 
 
 Trade theory has attracted a lot of interest from economists these days due to negative effects of globalization. But we will look into it in more detail in the chapter on trade.
 
