@@ -153,10 +153,9 @@ The US has overall higher standards of living due to the technological innovatio
 ### Prices Rise When the Government Prints Too Much Money
 
 <center>
-
-"*Inflation is always and everywhere a monetary phenomenon*" - Milton Friedman
-
+*"Inflation is always and everywhere a monetary phenomenon"* - Milton Friedman
 </center>
+
 
 
 Inflation is defined as increase in prices of goods and services. Inflation leads to loss of purchasing power of the currency. Explaining the vices of inflation without invoking the history of hyperinflation in German State during 1920s is incomplete. It was said that if one were waiting in a line to buy a bread, the price of the bread would double or in some cases quadruple by the time one got her turn. We will talk about it later in the course. Recent examples include hyperinflation in Zimbabwe and Venezuela. 
