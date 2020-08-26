@@ -128,7 +128,7 @@ One of the most important aspect of the market economy is that it does provide a
 
 The answer is property rights. For a so called "invisible hand"  to work it is extremely important to have strong property rights. Historical evidence suggests that if citizens' property rights are well protected by the government, the system of free markets work perfectly well. Why is that a case? As we saw before, the prices are vital for a market system to work. If the property rights are well defined and well protected, property owners can put a price on it which can then incentivize others to act accordingly.
 
-For instance, a trespasser can be disincentivized to encroach in your property if your property rights are well protected by law.
+For instance, a trespasser can be disincentivized to encroach upon your property if your property rights are well protected by law.
 
 #### What happens if property rights can not be defined?
 
